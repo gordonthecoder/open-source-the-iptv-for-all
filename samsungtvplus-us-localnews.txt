@@ -1,0 +1,235 @@
+CHICAGO:
+[
+  {
+    "id": "USBC1500002OJ",
+    "name": "NBC Chicago News",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500002OJ_20260421T143728SQUARE.png",
+    "streamUrl": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-aw4ef51osh909.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1500002OJ"
+  },
+  {
+    "id": "USBD300019RE",
+    "name": "ABC7 Chicago",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300019RE_20260421T134008SQUARE.png",
+    "streamUrl": "https://d3fknefrk5rlmh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sv6g4ayci5ctd/ABC7Chicago.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD300019RE"
+  },
+  {
+    "id": "USBD7000081I",
+    "name": "CBS News Chicago",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000081I_20260421T144113SQUARE.png",
+    "streamUrl": "https://d2zhccyhirrxur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6edvmtdf3x538/live/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD7000081I"
+  },
+  {
+    "id": "USBD3300002A3",
+    "name": "FOX LOCAL Chicago",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300002A3_20260421T144207SQUARE.png",
+    "streamUrl": "https://d1scho296nzp45.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5fagz15kjpfig/FOX_32_Chicago.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3300002A3"
+  }
+]
+
+DALLAS:
+[
+  {
+    "id": "USBC15000058Z",
+    "name": "NBC Dallas Fort Worth News",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC15000058Z_20260421T143539SQUARE.png",
+    "streamUrl": "https://du2u0y76yk8hd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gqt2gnb2w1p9t/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC15000058Z"
+  },
+  {
+    "id": "USBD17000129L",
+    "name": "CBS News Texas",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000129L_20260421T143904SQUARE.png",
+    "streamUrl": "https://d10f9l0f2yvgvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-137daaum0wuqj/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD17000129L"
+  },
+  {
+    "id": "USBD1200013ET",
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200013ET_20260421T144057SQUARE.png",
+    "streamUrl": "https://d2ykf1etol7qyo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xv1qsr2wj4ujb/Fox_4_Dallas_Fort_Worth.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD1200013ET"
+  },
+  {
+    "id": "USBD3500046GS",
+    "name": "WFAA",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500046GS_20260421T144227SQUARE.png",
+    "streamUrl": "https://d1zbt92ikgmk8c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mbkc1mbrj3nwt/index.m3u8?vendor=samsung&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3500046GS"
+  }
+]
+
+LOS ANGELES:
+[
+  {
+    "id": "USBC1300007Z8",
+    "name": "NBC Los Angeles News",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300007Z8_20260421T143634SQUARE.png",
+    "streamUrl": "https://d1si67byrnxcpz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bveu2f5txj52k/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1300007Z8"
+  },
+  {
+    "id": "USBD300018E4",
+    "name": "ABC7 Los Angeles",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300018E4_20260421T134021SQUARE.png",
+    "streamUrl": "https://d9g1r7gs2lta1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9snxb9530n4hl/ABC7LosAngeles.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD300018E4"
+  },
+  {
+    "id": "USBD7000099T",
+    "name": "CBS News Los Angeles",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000099T_20260421T144144SQUARE.png",
+    "streamUrl": "https://dhircx7l88nyh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f33l7z8ll2g4c/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD7000099T"
+  },
+  {
+    "id": "USBD2700020OY",
+    "name": "FOX LOCAL Los Angeles",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700020OY_20260421T134112SQUARE.png",
+    "streamUrl": "https://dxjfxwics7ps5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-54o3wr78pfn92/FOX_11_Los_Angeles.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD2700020OY"
+  }
+]
+
+MIAMI:
+[
+  {
+    "id": "USBC1500007HN",
+    "name": "NBC South Florida News",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500007HN_20260421T143650SQUARE.png",
+    "streamUrl": "https://d1rrbydna0czau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nobgyt11rtlw2/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1500007HN"
+  },
+  {
+    "id": "USBC3600016PW",
+    "name": "Very South Florida by WPBF",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600016PW_20260421T134005SQUARE.png",
+    "streamUrl": "https://d2y26hfqze8bha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-izrhi90weol4m-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC3600016PW"
+  },
+  {
+    "id": "USBD1200030UU",
+    "name": "CBS News Miami",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200030UU_20260421T144034SQUARE.png",
+    "streamUrl": "https://d38q3ra8bmzwcv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dbt53jltb7um/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD1200030UU"
+  }
+]
+
+NASHVILLE  
+[
+  {
+    "id": "USBC6000110D",
+    "name": "WTVF 5 Nashville",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000110D_20260421T143549SQUARE.png",
+    "streamUrl": "https://d1gw5h0pnzeyn6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0t1njqykplbdu/WTVF_5_Nashville.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC6000110D"
+  }
+]
+
+NEW YORK:
+[
+  {
+    "id": "USBC1500001FW",
+    "name": "News 12 New York",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500001FW_20260421T143441SQUARE.png",
+    "streamUrl": "https://d1oocquv3srw7d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-64z6hz0iz71vx/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1500001FW"
+  },
+  {
+    "id": "USBC1300014R0",
+    "name": "NBC New York News",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300014R0_20260421T143921SQUARE.png",
+    "streamUrl": "https://d1fui99gmx92qz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1xmo93oap4kyc/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1300014R0"
+  },
+  {
+    "id": "USBD300017KE",
+    "name": "ABC7 New York",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300017KE_20260421T144117SQUARE.png",
+    "streamUrl": "https://d2o0e1fw6lvqsh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qq8tjarbei92/ABC7NewYork.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD300017KE"
+  },
+  {
+    "id": "USBD12000275I",
+    "name": "CBS News New York",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000275I_20260421T144217SQUARE.png",
+    "streamUrl": "https://d3frnj0wbguicg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gurmkl3iq3iye/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD12000275I"
+  },
+  {
+    "id": "USBD2700009DK",
+    "name": "FOX LOCAL New York",
+    "number": 1126,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700009DK_20260421T144230SQUARE.png",
+    "streamUrl": "https://d3voplcqlomrna.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ap0u0hpefxou1/FOX_5_NY.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD2700009DK"
+  }
+]
+
+SAN FRANCISCO  
+[
+  {
+    "id": "USBC3200005A0",
+    "name": "NBC Bay Area News",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20260421T143637SQUARE.png",
+    "streamUrl": "https://d3tjwn325jokf2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9rzzck1wn7zh3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC3200005A0"
+  },
+  {
+    "id": "USBC4400010RH",
+    "name": "ABC7 Bay Area",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20260421T144028SQUARE.png",
+    "streamUrl": "https://d36y9r7tzrxbad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qe3aww3oljxzr/ABC7BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC4400010RH"
+  },
+  {
+    "id": "USBD2700010WB",
+    "name": "CBS News Bay Area",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700010WB_20260421T144103SQUARE.png",
+    "streamUrl": "https://d2cshz9gnuhcnp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cduoe95wdr1bs/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD2700010WB"
+  },
+  {
+    "id": "USBD2700019N0",
+    "name": "FOX LOCAL San Francisco",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20260421T144210SQUARE.png",
+    "streamUrl": "https://dztrzpopiv40x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j1eeemyer58ti/FOX_2_San_Francisco.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD2700019N0"
+  }
+]
+
+SEATTLE:
+[
+  {
+    "id": "USBC1000021BG",
+    "name": "KIRO Seattle",
+    "number": 1122,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000021BG_20260421T143741SQUARE.png",
+    "streamUrl": "https://d1eoqv3jl5jsap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5o221akf7n89m-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBC1000021BG"
+  },
+  {
+    "id": "USBD450000577",
+    "name": "FOX LOCAL Seattle",
+    "number": 1123,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD450000577_20260421T143949SQUARE.png",
+    "streamUrl": "https://d1m9ei56bwbtqp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kb1ay2qigkgdg/FOX_13_Seattle.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD450000577"
+  },
+  {
+    "id": "USBD4200018SW",
+    "name": "KOMO News Seattle",
+    "number": 1124,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200018SW_20260421T144154SQUARE.png",
+    "streamUrl": "https://dhj0cnhmd3khw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-is9zvj8f1k1zb/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD4200018SW"
+  },
+  {
+    "id": "USBD4200004MV",
+    "name": "KING 5",
+    "number": 1125,
+    "logo": "https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200004MV_20260421T144157SQUARE.png",
+    "streamUrl": "https://d24ntbzv95s4cd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fof2ueu6edzc2/index.m3u8?vendor=samsung&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD4200004MV"
+  }
+]
+
