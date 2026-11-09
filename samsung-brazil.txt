@@ -1,2 +1,10 @@
 TV Oeste
 https://cc-ugbqi59nx461h.akamaized.net/playlist.m3u8
+
+Cine Pipoca
+https://cc-l9p7kl8olg7lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l9p7kl8olg7lw/out/v1/4e3b01a9e88e421286b3ee14187afb98/HLS_CMAF_DRM/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=BR300031CU
+
+Cine Pipoca de Natal
+https://pb-vit79duho7o01.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-vit79duho7o01/out/v1/76004a4ba10541429be84fdc9caa3357/HLS_CMAF_DRM/index.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=BR3800004JP&ads.ssai_vendor=SSSLIVE&pb_type=pb-vit79duho7o01_akamai
+
+
